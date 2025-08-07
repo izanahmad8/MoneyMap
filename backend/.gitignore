@@ -1,0 +1,21 @@
+# Ignore build files
+/target/
+
+# Ignore logs
+*.log
+
+# Ignore IDE-specific files
+.idea/
+.vscode/
+
+# Ignore environment and credentials
+.env
+application.properties
+application.yml
+
+# Ignore compiled files
+*.class
+
+# Maven wrapper logs
+.mvn/
+mvnw*
