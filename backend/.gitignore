@@ -10,8 +10,6 @@
 
 # Ignore environment and credentials
 .env
-application.properties
-application.yml
 
 # Ignore compiled files
 *.class
