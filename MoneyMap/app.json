@@ -3,7 +3,7 @@
     "name": "MoneyMap",
     "slug": "MoneyMap",
     "version": "1.0.0",
-    "orientation": "portrait",
+    "orientation": "default",
     "icon": "./assets/images/logo.png",
     "scheme": "moneymap",
     "userInterfaceStyle": "automatic",
